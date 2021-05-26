@@ -1,0 +1,26 @@
+Gather Data
+Preprocessing of Data
+Create a Neural Network ( CNN ) – Transfer Learning and train the model
+Predict the Output for Unseen Data
+Evaluate the model
+Deploy your model 
+
+
+How to get Data?
+From Webcam take frames ( Opencv )
+From Google, Bing, Flickr scrape Images
+From Kaggle, download Dataset 
+      -  Cats and Dogs
+      -  Humans and Horses 
+      -  Plant Disease Detection etc
+
+
+How to download and store Image?
+Bing Image Downloader
+
+
+
+Deployment?
+Web App - Streamlit
+
+
